@@ -1,7 +1,5 @@
 # Phase 1: ML Engineering Fundamentals
 
-## Weeks 1–4
-
 ## Case Study: Predicting Customer Churn for a Subscription Business
 
 ---
